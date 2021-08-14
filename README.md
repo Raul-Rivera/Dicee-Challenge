@@ -9,4 +9,4 @@ _This is the traditional dice game, every time you update the page, player 1 and
 * https://raul-rivera.github.io/Dicee-Challenge/
 
 ---
-⌨️ Raul J. Rivera a Software Developer.  🛠️  😊  
+⌨️ _Raul J. Rivera a Software Developer._ 🛠️ 😊  
